@@ -1,12 +1,17 @@
 /*title*/
 #title{
     background-color: lightgreen;
-    padding-bottom: 5%;
+    padding-bottom: 10%;
+    padding-right:3% ;
 }
 
 .brand{
     color:#3F3D56;
     padding-left: 10%;
+}
+
+.navigation{
+    text-align: right;
 }
 
 .energy-locator{
@@ -18,11 +23,12 @@
 .img-footprint{
     mix-blend-mode: multiply;
     padding-left: 10%;
+    padding-top: 5%;
 }
 
 .title-text{
     color: #3F3D56;
-    padding-top: 15%;
+    padding-top: 20%;
     padding-right:7% ;
 }
 
