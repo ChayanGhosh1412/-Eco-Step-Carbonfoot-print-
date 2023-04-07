@@ -14,10 +14,14 @@
     text-align: right;
 }
 
+.nav-link{
+    font-size: 1.3rem;
+}
+
 .energy-locator{
     padding-left: 10%;
     padding-right: 2%;    
-    font-size: 1rem;
+    font-size: 1.4rem;
 
 }
 .img-footprint{
@@ -30,6 +34,7 @@
     color: #3F3D56;
     padding-top: 20%;
     padding-right:7% ;
+    font-size: 3rem;
 }
 
 .download-button{
@@ -45,6 +50,7 @@
     text-align: center;
     background-color:#7FFFD4;
     color: #3F3D56;
+    padding-right: 3%;
 }
 
 .testimonial-image{
@@ -97,4 +103,3 @@
         text-align: center;
     }
 }
-
